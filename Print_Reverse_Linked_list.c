@@ -1,18 +1,21 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-struct node{
+struct LinkedListNode{
     int data;
     struct node *next;
 };
 
-void append(struct node** head_ref, int new_data);
-void print(struct node** head_ref);
+typedef struct LinkedListNode node;
+
+void append(node** , int );      //passing the data by reference
+void print(node* );
+void Delete(node** );
 
 int main()
 {
     int n, data;
-    struct node* head = NULL;
+    node* head = NULL;
     printf("ENTER NUMBER OF ELEMENTS IN THE LINKED LIST: ");
     scanf("%d", &n);
     while(n!=0){
@@ -21,14 +24,12 @@ int main()
         append(&head, data);
         n--;
     }
-    struct node* t=head;
     printf("BEFORE REVERSING THE LINKED LIST: \n");
-    while(t!=NULL){
-        printf("%d ", t->data);
-        t = t->next;
-    }
+    print(head);
+    
     printf("\nAFTER REVERSING THE LIST: \n");
-    print(&head);
+    Reverse(head);
+    print(head);
     return 0;
 }
 
@@ -48,7 +49,15 @@ void append(struct node** head_ref, int new_data)
     return;
 }
 
-void print(struct node** head_ref)
+void print(struct node* head_ref)
+{
+    while(t!=NULL){
+        printf("%d ", t->data);
+        t= t->next;
+    }
+}
+
+void Delete(struct node** head_ref)
 {
     struct node* k = *(head_ref);
     struct node* t = NULL;
@@ -58,10 +67,5 @@ void print(struct node** head_ref)
         last->next = t;
         t = last;
         k= k->next;
-    }
-
-    while(t!=NULL){
-        printf("%d ", t->data);
-        t= t->next;
     }
 }
