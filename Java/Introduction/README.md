@@ -8,7 +8,7 @@
 |Total|
 
 
-****Problems Status:
+Problem Status:
 
 |Problem|Level|Status|
 |-------|-----|------|
