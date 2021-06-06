@@ -7,3 +7,14 @@ My Achievements in the HackerRank:
 - 5 STARS IN RUBY
 - 6 STARS IN PROBLEM SOLVING
 - Completed Linux shell
+
+Note:
+---
+- CPP is incomplete
+- Problem is incomplete 
+- python is incomplete
+- Linux shell not yet started
+- Mathematics not yet started 
+- Regex not yet started
+- Ruby not yet started
+- sql not yet started
