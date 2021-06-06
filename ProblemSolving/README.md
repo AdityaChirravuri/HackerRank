@@ -5,7 +5,7 @@
 |Hard|
 |Advanced|
 |Expert|
-|TOTAL|119|563|
+|TOTAL|142|563|
 
 
 - Algorithms and Data structures comes under Problem Solving
