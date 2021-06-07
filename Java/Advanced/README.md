@@ -1,8 +1,8 @@
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
 |Easy|2|2|
-|Medium|7|7|
-|TOTAL|9|9|
+|Medium|2|7|
+|TOTAL|4|9|
 
 Problem Status
 ---
