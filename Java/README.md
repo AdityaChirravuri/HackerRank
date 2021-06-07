@@ -1,7 +1,6 @@
 |Level|Problems Solved|Total Number of Problems|
 |-----|---------------|------------------------|
-|Easy|
-|Medium|
+|Easy|||
+|Medium|||
 |Hard|
-|Advanced|
-|Expert|
+|TOTAL|51|64|
