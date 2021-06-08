@@ -2,9 +2,6 @@
 |-----|---------------|------------------|
 |Easy|5|5|
 |Medium|3|3|
-|Hard|0|0|
-|Expert|0|0|
-|Advanced|0|0|
 |TOTAL|8|8|
 
 Problem Status
