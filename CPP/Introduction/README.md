@@ -1,7 +1,7 @@
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
 |Easy|9|9|
-|TOTAL|
+|TOTAL|9|9|
 
 
 Problem Status
