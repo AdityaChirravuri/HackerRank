@@ -10,7 +10,6 @@ My Achievements in the HackerRank:
 
 Note:
 ---
-- CPP is incomplete
 - Problem Solving is incomplete 
 - python is incomplete
 - Linux shell not yet started
