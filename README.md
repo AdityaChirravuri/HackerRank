@@ -11,7 +11,6 @@ My Achievements in the HackerRank:
 Note:
 ---
 - Problem Solving is incomplete 
-- python is incomplete
 - Linux shell not yet started
 - Mathematics not yet started 
 - Regex not yet started
