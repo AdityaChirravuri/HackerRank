@@ -9,3 +9,4 @@
 
 
 - Algorithms and Data structures comes under Problem Solving
+- There are few Problems where there are solutions in multiple languages
