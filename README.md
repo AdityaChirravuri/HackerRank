@@ -14,5 +14,4 @@ Note:
 - Linux shell not yet started
 - Mathematics not yet started 
 - Regex not yet started
-- Ruby not yet started
 - sql not yet started
