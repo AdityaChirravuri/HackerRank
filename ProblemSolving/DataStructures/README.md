@@ -8,4 +8,4 @@
 |Advanced|0|2|
 |TOTAL|44|63|
 
--Arrays, Linked list, Tree, Balanced Tree, Stacks, Queues, Heaps are included
+Trie and Advanced are not included
