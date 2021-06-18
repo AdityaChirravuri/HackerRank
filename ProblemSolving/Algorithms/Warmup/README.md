@@ -17,3 +17,6 @@ Problem Status
 |Min-Max Sum|Easy|Solved|
 |Birthday cake candles|Easy|Solved|
 |Time Conversion|Easy|Solved|
+
+- Few Questions can be done without any help, try them
+- Happy Coding!!
