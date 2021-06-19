@@ -5,7 +5,7 @@
 |Hard|3|35|
 |Advanced|0|14|
 |Expert|0|19|
-|TOTAL|147|563|
+|TOTAL|148|563|
 
 |Problem Type|Total Number of Problems|
 |------------|------------------------|
