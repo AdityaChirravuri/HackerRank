@@ -7,4 +7,4 @@
 |Advanced|0|18|
 |TOTAL|87|276|
 
-- Only Warmup, Implementation, Strings, Sorting, Searching, Graph Theory, Debugging, NP Compete are Rooks included
+- Only Warmup, Implementation, Strings, Sorting, Searching, Graph Theory, Debugging, NP Compete and Game theory are included
