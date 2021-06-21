@@ -1,12 +1,3 @@
-|Level|Problems Solved|Total Number of Problems|
-|-----|---------------|------------------------|
-|Easy|30|30|
-|Medium|12|20|
-|Hard|3|35|
-|Advanced|0|14|
-|Expert|0|19|
-|TOTAL|148|563|
-
 |Problem Type|Total Number of Problems|
 |------------|------------------------|
 |Data Structures|118|
