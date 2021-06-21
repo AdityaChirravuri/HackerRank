@@ -1,12 +1,8 @@
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
-|Easy|
-|Medium|
-|Hard|
-|Expert|
-|Advanced|
-|TOTAL|
-
+|Easy|2|2|
+|Medium|0|3|
+|TOTAL|2|5|
 
 Problem Status
 ---
