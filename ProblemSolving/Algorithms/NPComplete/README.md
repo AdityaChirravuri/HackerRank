@@ -9,3 +9,7 @@ Problem Status
 ---
 |Problem|Level|Status|
 |-------|-----|------|
+|Walking the Approximate Path|Hard|UnSolved|
+|Spies, Revised|Expert|UnSolved|
+|TBS Problem|Expert|UnSolved|
+|Sam's Puzzle|Advanced|UnSolved|
