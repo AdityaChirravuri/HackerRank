@@ -10,3 +10,8 @@ Problem Status
 ---
 |Problem|Level|Status|
 |-------|-----|------|
+|Fibonacci Modified|Medium|Solved|
+||Medium|UnSolved|
+||Hard|UnSolved|
+||Expert|UnSolved|
+||Advaced|UnSolved|
