@@ -8,3 +8,4 @@
 |TOTAL|87|276|
 
 - Only Warmup, Implementation, Strings, Sorting, Searching, Graph Theory, Debugging, NP Compete and Game theory are included
+- Problems are uploaded
