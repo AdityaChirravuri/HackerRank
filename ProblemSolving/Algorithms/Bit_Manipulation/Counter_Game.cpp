@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int num(int n)
+int num(long long n)
 {
     int count = 0;
     while(n!=0){
@@ -14,13 +14,13 @@ int num(int n)
 
 int main()
 {
-    int n, t;
+    int t;
     cin >> t;
-
+    long long n;
     while(t--)
     {
         cin >> n;
-        if(num(n)&1)cout << "Louise" << endl;
+        if(num(n-1)&1)cout << "Louise" << endl;
         else cout << "Richard" << endl;
     }
 
