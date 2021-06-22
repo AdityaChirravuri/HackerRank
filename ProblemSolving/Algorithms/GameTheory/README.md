@@ -21,7 +21,7 @@ Problem Status
 |Tower Breakers, Revisited|Medium|UnSolved|
 |Tower Breaker, Again|Medium|UnSolved|
 |Zer-Move Nim|Medium|UnSolved|
-|ChessBoard Game-Again!||Medium|UnSolved|
+|ChessBoard Game-Again!|Medium|UnSolved|
 |Digit Sqaure Board|Medium|UnSolved|
 |Fun Game|Medium|UnSolved|
 |Chocolate in Box||Medium|UnSolved|
@@ -34,7 +34,7 @@ Problem Status
 |Move the Coins|Medium|UnSolved|
 |Play on Beders|Medium|UnSolved|
 |New Year Game|Medium|UnSolved|
-|Vertcal Rooks||Medium|UnSolved|
+|Vertcal Rooks|Medium|UnSolved|
 |A Stones Game|Medium|UnSolved|
 |Simple Game|Hard|UnSolved|
 |Stone Division|Hard|UnSolved|
