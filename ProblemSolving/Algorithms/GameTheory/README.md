@@ -24,7 +24,7 @@ Problem Status
 |ChessBoard Game-Again!|Medium|UnSolved|
 |Digit Sqaure Board|Medium|UnSolved|
 |Fun Game|Medium|UnSolved|
-|Chocolate in Box||Medium|UnSolved|
+|Chocolate in Box|Medium|UnSolved|
 |Kitty and Katty|Medium|UnSolved|
 |Powers Game|Medium|UnSolved|
 |Deforestration|Medium|UnSolved|
