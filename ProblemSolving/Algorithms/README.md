@@ -1,8 +1,8 @@
 |Level|Problems Solved|Number of Problems|
 |-----|---------------|------------------|
-|Easy|79|103|
-|Medium|8|70|
-|Hard|0|45|
-|Expert|0|30|
-|Advanced|0|18|
-|TOTAL|87|276|
+|Easy|89|125|
+|Medium|8|136|
+|Hard|0|89|
+|Expert|0|42|
+|Advanced|0|47|
+|TOTAL|97|445|
