@@ -6,8 +6,3 @@
 |Expert|
 |Advanced|
 |TOTAL|
-
-Problem Status
----
-|Problem|Level|Status|
-|-------|-----|------|
