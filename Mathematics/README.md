@@ -5,4 +5,4 @@
 |Hard|
 |Expert|
 |Advanced|
-|TOTAL|
+|TOTAL|37|283|
